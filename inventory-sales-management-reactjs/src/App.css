@@ -1,0 +1,65 @@
+/* -------------------------------------- */
+
+
+.nav-bar:hover {
+  background-color: rgb(175, 175, 175);
+}
+
+/* -------------------------------------- */
+
+.accordion-button {
+  background: rgb(85, 85, 85);
+}
+
+.accordion-item {
+  background: rgb(95, 95, 95);
+}
+
+.expandedAccordion {
+  color: #00809a;
+}
+
+.collapsedAccordion {
+  color: #eda460;
+}
+
+/* -------------------------------------- */
+
+.form-label {
+  font-size: 18px;
+  text-decoration: underline;
+  color: #0c104b;
+}
+
+.form-control {
+  border: none;
+}
+
+.hr {
+  border: 2px solid rgb(0, 0, 0);
+  opacity: 65%;
+}
+
+.formhr {
+  border: 2px solid #00d4ff;
+  margin-bottom: 25px;
+  opacity: 100%;
+}
+
+svg {
+  height: 35px;
+  width: 45px;
+}
+
+.alert {
+  height: 50px;
+}
+
+/* --------------------- */
+
+.text-color {
+  color: sandybrown;
+}
+
+/* --------------------- */
+
