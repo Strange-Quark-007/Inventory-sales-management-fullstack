@@ -1,6 +1,7 @@
 
 <div align = "center">
-<h1>Inventory & Sales Management System Full Stack Application</a></h1>
+<h1>Inventory & Sales Management System</h1> 
+<h1>Full Stack Application</h1>
 </div>
 
 <div>
